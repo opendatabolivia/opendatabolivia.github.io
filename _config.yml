@@ -4,8 +4,8 @@
 title: Datos Abiertos Bolivia
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/www.opendatabolivia.org.bo" #important: start with /
-url: "http://yourdomain.com"
+baseurl: "" #important: start with /
+url: "http://aru.org.bo/
 
 # Build settings
 markdown: kramdown
@@ -26,16 +26,10 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
-    url:
+    url: https://www.facebook.com/FundacionARU?fref=ts
   - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+    url: https://twitter.com/ARUFoundation
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
