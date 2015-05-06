@@ -1,8 +1,8 @@
 ---
-layout: project1
-title:  "YOUR PROJECT NAME"
+layout: project
+title:  "Censos de Población y Vivienda"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Unidad de datos
 categories:
 - project
 img: portfolio_10.jpg
