@@ -47,7 +47,7 @@ tel: +591 2-2004492, +591 2-2004491
 members:
   - name: Werner Hernani
     position: Director Ejecutivo
-    text: Es cofundador de la fundación e investigador lider de los grupos de Monitoreo y Evaluación y Economia Política. Previamente a ARU, trabajó en los Departamentos de Investigación del Banco Mundial y del Banco Inter-americano de Desarrollo en Washington, DC; el Instituto de Pesquiza Económica Aplicada en Río de Janeiro, Brasil y en la Unidad de Análisis de Política Económica y Social. También ha trabajado como consultor para diversas organizaciones internacionales y gobiernos de Latinoamérica, el Caribe, Asia Central y del Sur. Asimismo, ha sido profesor de diferentes asignaturas relacionadas con Econometría Aplicada, Diseño de Muestras, Inferencia Causal y Evaluación de Impacto en distintas universidades locales y del exterior. Werner es economista con estudios de doctorado en la Universidad de Pennsylvania y especialidad en las áreas de Teoría de Juegos, Economía Política, Economía Laboral y Econometría Aplicada.
+    text: Es cofundador de la fundación e investigador lider de los grupos de Monitoreo y Evaluación y Economia Política. Trabajó en los Departamentos de Investigación del Banco Mundial y del Banco Inter-americano de Desarrollo en Washington, DC; el Instituto de Pesquiza Económica Aplicada en Río de Janeiro, Brasil y en la Unidad de Análisis de Política Económica y Social. También ha trabajado como consultor para diversas organizaciones internacionales y gobiernos de Latinoamérica, el Caribe, Asia Central y del Sur.
     img: werner.jpg
     social:
       - title: envelope #use for email address
@@ -56,7 +56,7 @@ members:
         url: https://www.facebook.com/wernerhl?ref=ts&fref=ts
   - name: Alvaro Chirino
     position: Lider Unidad de Datos
-    text: Alvaro, estudió estadística en la Universidad Mayor de San Andrés, donde fue reconocido como uno de los mejores estudiantes. Tiene una especialidad en diseños de evaluación de las políticas públicas en la Universidad Católica de Bolivia, trabajó en el Instituto Nacional de Estadística en el departamento de calidad estadística, en la actualidad trabaja en la Fundación ARU cómo el coordinador de la unidad de microdatos y la encuesta, dirigió varios diseños de muestreo en programas de evaluación de impacto, tanto en ámbitos locales y nacionales.
+    text: Alvaro, estadística en la Universidad Mayor de San Andrés. Tiene una especialidad en diseños de evaluación de las políticas públicas en la Universidad Católica de Bolivia, trabajó en el Instituto Nacional de Estadística en el departamento de calidad estadística,  en ARU es el Coordinador de la Unidad de Microdatos y la Encuesta.
     img: alvaro.jpg
     social:
       - title: envelope #use for email address
