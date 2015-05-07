@@ -10,19 +10,19 @@ permalink: /
             <div class="col-md-4">
                 <i class="fa fa-heart-o"></i>
                 <h4>La iniciativa</h4>
-                <p>Pretende difundir de manera sistematica la informacion disponbile de Bolivia de manera grafica</p>
+                <p>Es desarrollada por Fundación ARU, es información libre y gratuita, destinada principalmente a los hacedores de política y la población en general de los niveles sub-nacionales del País (Departamentos y municipios). Los principales datos corresponden a temas de fuerte interés social y son presentados de forma amigable y de fácil acceso.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
                 <i class="fa fa-flask"></i>
-                <h4>Fuente de informacion</h4>
-                <p>Registros administrativos, encuestas y censos</p>
+                <h4>Fuentes de información</h4>
+                <p>Lo información proviene de fuentes públicas y abiertas, las fuentes empleadas son; los Censos de Población y Vivienda, las Encuestas a Hogares y los Registros Administrativos. Toda esta información es sistematizada permanentemente por Fundación ARU en el afán de garantizar el principio de pertinencia de la información</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
                 <i class="fa fa-trophy"></i>
                 <h4>Nuestra Meta</h4>
-                <p>LDemocratizar el acceso a la informacion.</p>
+                <p>La principal meta de la iniciativa es <b>"Democratizar el Acceso a la Información"</b>, también creemos que podemos proveer a los gobiernos sub-nacionales información útil para sus planes de desarrollo local.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
             </div>		 				
         </div>
@@ -34,7 +34,7 @@ permalink: /
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-4 col-lg-offset-1">
-            <h4>Mas acerca de nosotros</h4>
+            <h4>Más acerca de nosotros</h4>
             <p>{{ site.about }}</p>
             <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
         </div>
@@ -48,7 +48,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>Ultimos articulos</h4>
+            <h4>Últimos artículos</h4>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:5 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>

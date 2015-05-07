@@ -47,40 +47,40 @@ tel: +591 2-2004492, +591 2-2004491
 members:
   - name: Werner Hernani
     position: Director Ejecutivo
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+    text: Es cofundador de la fundación e investigador lider de los grupos de Monitoreo y Evaluación y Economia Política. Previamente a ARU, trabajó en los Departamentos de Investigación del Banco Mundial y del Banco Inter-americano de Desarrollo en Washington, DC; el Instituto de Pesquiza Económica Aplicada en Río de Janeiro, Brasil y en la Unidad de Análisis de Política Económica y Social. También ha trabajado como consultor para diversas organizaciones internacionales y gobiernos de Latinoamérica, el Caribe, Asia Central y del Sur. Asimismo, ha sido profesor de diferentes asignaturas relacionadas con Econometría Aplicada, Diseño de Muestras, Inferencia Causal y Evaluación de Impacto en distintas universidades locales y del exterior. Werner es economista con estudios de doctorado en la Universidad de Pennsylvania y especialidad en las áreas de Teoría de Juegos, Economía Política, Economía Laboral y Econometría Aplicada.
+    img: werner.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:whl@aru.org.bo
+      - title: facebook
+        url: https://www.facebook.com/wernerhl?ref=ts&fref=ts
   - name: Alvaro Chirino
     position: Lider Unidad de Datos
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+    text: Alvaro, estudió estadística en la Universidad Mayor de San Andrés, donde fue reconocido como uno de los mejores estudiantes. Tiene una especialidad en diseños de evaluación de las políticas públicas en la Universidad Católica de Bolivia, trabajó en el Instituto Nacional de Estadística en el departamento de calidad estadística, en la actualidad trabaja en la Fundación ARU cómo el coordinador de la unidad de microdatos y la encuesta, dirigió varios diseños de muestreo en programas de evaluación de impacto, tanto en ámbitos locales y nacionales.
+    img: alvaro.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:achirino@aru.org.bo
       - title: twitter
-        url: http://twitter.com/handle
+        url: https://twitter.com/Estbolivia
   - name: Sherli Mamani
     position: Responsable de Procesamiento
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    text: Dentro de la Fundación ARU, es la responsable de sistemas. Es graduada de la carrera de estadística de la Universidad Mayor de San Andrés y tiene un diplomado en Evaluación de Impacto de la Universidad Católica Boliviana.
+    img: sherli.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:smamani@aru.org.bo
+      - title: facebook
+        url: https://www.facebook.com/sherli.mamanihuanca?fref=ts
   - name: Beatriz Mamani
     position: Responsable Recoleccion de Datos
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
+    text: Dentro de Fundación ARU, es la responsable de los operativos de campo. Trabajó como asistente de investigación en el Instituto de Estadística Teórica y Aplicada de la Universidad Mayor de San Andrés, es graduada en Estadistica.
+    img: beatriz.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:bmamani@aru.org.bo
+      - title: facebook
+        url: https://www.facebook.com/beatriz.mamani.106?fref=ts
     
 # Clients information. Shown on Home and About pages.
 clients:
@@ -98,6 +98,6 @@ about: "La Fundación ARU es una organización de investigación de políticas i
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Werner Hernani
-    position: Director Ejecutivo - Fundación ARU
+    message: "Existe una desigualdad mundial que está obstaculizando el progreso hacia el perfeccionamiento. Por el momento, poco conocemos de las personas que tienen menos oportunidades, pero estas son las personas que más necesitan la atención del mundo. Convertir aspiraciones globales o nacionales para acabar con la pobreza, con cambios reales en la vida de las personas, implicará saber más acerca cómo viven las personas más pobres y cómo mejorar su capacidad de acceder y utilizar datos."
+    author: Cartagena Data Festival 2015
+    position: 
