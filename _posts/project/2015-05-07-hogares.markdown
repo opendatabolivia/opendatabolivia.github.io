@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Encuestas de Hogares"
+date:   
+author: Fundación ARU
+categories:
+- project
+img: hogares.png
+thumb: thumb02.jpg
+carousel:
+- hogares1.jpg
+- hogares2.jpg
+- hogares3.jpg
+client: Bolivia.
+website: http://www.ine.gob.bo:8081/Webine10/enchogares1.aspx
+---
+####Encuestas de Hogares
+Las...
+
+####Nuestra plataforma
+...
