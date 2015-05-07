@@ -1,7 +1,6 @@
 ---
 layout: project
 title:  "Encuestas de Hogares"
-date:   
 author: Fundación ARU
 categories:
 - project
