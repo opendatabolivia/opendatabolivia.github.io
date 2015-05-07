@@ -1,7 +1,6 @@
 ---
 layout: project
 title:  "Registros Administrativos"
-date:  2015-05-07 16:54:46
 author: Fundación ARU
 categories:
 - project
