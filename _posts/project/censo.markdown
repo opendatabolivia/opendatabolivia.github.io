@@ -1,7 +1,6 @@
 ---
 layout: project
 title:  "Censos de Población y Vivienda"
-date:   
 author: Fundación ARU
 categories:
 - project
