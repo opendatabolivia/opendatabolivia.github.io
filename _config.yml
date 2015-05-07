@@ -85,13 +85,13 @@ members:
 # Clients information. Shown on Home and About pages.
 clients:
   - name: IDRC
-    img: http://upload.wikimedia.org/wikipedia/commons/6/61/Logo_IDRC_CRDI.png
+    img: client01.png
+  - name: Think Tank
+    img: client02.jpg
   - name: PEP-NET
-    img: client02.png
-  - name: Iniciativa Think Tank
     img: client03.png
-  - name: Universidad Mayor de San Andres
-    img: client04.png
+  - name: CBMS
+    img: client04.jpg
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "La Fundación ARU es una organización de investigación de políticas independiente y sin fines de lucro creada con el objetivo de promover investigación aplicada de alta calidad que informe e influencie el debate de políticas públicas en Bolivia."
