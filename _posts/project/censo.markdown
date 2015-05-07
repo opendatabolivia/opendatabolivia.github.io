@@ -1,17 +1,17 @@
 ---
 layout: project
 title:  "Censos de Población y Vivienda"
-date:   2014-04-25 16:54:46
+date:   
 author: Fundación ARU
 categories:
 - project
 img: censo.png
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
+- censo1.jpg
+- censo2.jpg
+- censo3.jpg
+client: Bolivia.
 website: http://blacktie.co
 ---
 ####Censos de Población y Vivienda
