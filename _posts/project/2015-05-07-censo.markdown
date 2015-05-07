@@ -11,7 +11,7 @@ carousel:
 - censo2.jpg
 - censo3.jpg
 client: Bolivia.
-website: http://blacktie.co
+website: http://datos.ine.gob.bo/binbol/RpWebEngine.exe/Portal?LANG=ESP
 ---
 ####Censos de Población y Vivienda
 El...
