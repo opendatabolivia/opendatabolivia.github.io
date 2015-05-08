@@ -3,7 +3,7 @@ layout: temas
 title:  "EDUCACIÓN"
 author: Fundación ARU
 categories:
-- project
+- temas
 img: educacion.png
 thumb: thumb02.jpg
 carousel:
