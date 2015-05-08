@@ -1,7 +1,6 @@
 ---
 layout: project
 title:  "Encuesta Nacional de Demografía y Salud"
-date:   
 author: Fundación ARU
 categories:
 - project
