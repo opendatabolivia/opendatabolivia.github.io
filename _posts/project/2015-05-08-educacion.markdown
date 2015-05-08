@@ -1,5 +1,5 @@
 ---
-layout: temas
+layout: project
 title:  "Educación"
 author: Fundación ARU
 categories:

@@ -4,7 +4,7 @@ title:  "Servicios Básicos y Vivienda"
 author: Fundación ARU
 categories:
 - temas
-img: educacion.png
+img: servicios.png
 thumb: thumb02.jpg
 carousel:
 - educacion1.jpg

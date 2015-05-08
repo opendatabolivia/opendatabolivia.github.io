@@ -1,5 +1,5 @@
 ---
-layout: temas
+layout: project
 title:  "Salud"
 author: Fundación ARU
 categories:
