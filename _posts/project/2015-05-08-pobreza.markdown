@@ -1,10 +1,10 @@
 ---
 layout: temas
-title:  "Educación"
+title:  "Pobreza"
 author: Fundación ARU
 categories:
 - temas
-img: educacion.png
+img: pobreza.png
 thumb: thumb02.jpg
 carousel:
 - educacion1.jpg

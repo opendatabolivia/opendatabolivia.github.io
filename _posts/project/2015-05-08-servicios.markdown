@@ -1,6 +1,6 @@
 ---
-layout: temas
-title:  "Educación"
+layout: project
+title:  "Servicios Básicos y Vivienda"
 author: Fundación ARU
 categories:
 - temas
