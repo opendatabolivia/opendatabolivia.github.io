@@ -99,3 +99,57 @@ text(5,50,"1999 - 2012",cex=3,col="#00004e",font=2)
 box()
 dev.off()
 
+
+###################
+#install.packages("jpeg")
+library(jpeg)
+#salud
+a<-readJPEG("salud.jpg")
+png("salud.png",width=600,height=450,bg = "transparent")
+par(mai=c(0,0,0,0))
+plot(1:2, type='n',ylim=c(0.8,2))
+rasterImage(a, 1, 2, 2, 1)
+text(1,0.9,"SALUD",cex=5,col="#00004e",font=2,pos=4)
+box()
+dev.off()
+
+#educacion
+a<-readJPEG("educacion.jpeg")
+png("educacion.png",width=600,height=450,bg = "transparent")
+par(mai=c(0,0,0,0))
+plot(1:2, type='n',ylim=c(0.8,2))
+rasterImage(a, 1, 2, 2, 1)
+text(1,0.9,"EDUCACIÓN",cex=5,col="#00004e",font=2,pos=4)
+box()
+dev.off()
+
+#pobreza
+a<-readJPEG("pobreza.jpg")
+png("pobreza.png",width=600,height=450,bg = "transparent")
+par(mai=c(0,0,0,0))
+plot(1:2, type='n',ylim=c(0.8,2))
+rasterImage(a, 1, 2, 2, 1)
+text(1,0.9,"POBREZA",cex=5,col="#00004e",font=2,pos=4)
+box()
+dev.off()
+
+#SERVICIOS
+a<-readJPEG("servicios.jpg")
+png("servicios.png",width=600,height=450,bg = "transparent")
+par(mai=c(0,0,0,0))
+plot(1:2, type='n',ylim=c(0.8,2))
+rasterImage(a, 1, 2, 2, 1)
+text(1,0.9,"SERVICIOS BÁSICOS Y VIVIENDA",cex=3,col="#00004e",font=2,pos=4)
+box()
+dev.off()
+
+#EMPLEO
+a<-readJPEG("empleo.jpg")
+png("empleo.png",width=600,height=450,bg = "transparent")
+par(mai=c(0,0,0,0))
+plot(1:2, type='n',ylim=c(0.8,2))
+rasterImage(a, 1, 2, 2, 1)
+text(1,0.9,"EMPLEO",cex=5,col="#00004e",font=2,pos=4)
+box()
+dev.off()
+
