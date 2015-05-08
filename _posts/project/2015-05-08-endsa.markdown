@@ -4,7 +4,7 @@ title:  "Encuesta Nacional de Demografía y Salud"
 author: Fundación ARU
 categories:
 - project
-img: hogares.png
+img: endsa.png
 thumb: thumb02.jpg
 carousel:
 - endsa1.jpg
