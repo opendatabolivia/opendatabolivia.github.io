@@ -8,7 +8,7 @@ categories:
 - datos
 - Bolivia
 - desarrollo local
-img: iniciativa.jpg
+img: iniciativa.png
 thumb: thumb03.jpg
 ---
 
@@ -28,4 +28,3 @@ La iniciativa busca ....
 ####Población meta
 
 
-[hampden]: https://github.com/jekyll/jekyll
