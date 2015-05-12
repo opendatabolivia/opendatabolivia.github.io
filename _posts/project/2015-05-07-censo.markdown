@@ -22,7 +22,7 @@ en lo que se refiere a la vivienda, el acceso al agua, la disponibilidad de los 
 El censo nacional de población y vivienda representa uno de los pilares para la recopilación de datos sobre el número y características de la población de un país. En lo que se refiere a las zonas geográficas pequeñas o subgrupos
 de población, puede representar la única fuente de información sobre determinadas características sociales, demográficas y económicas.
 
-"Naciones Unidas (2010). Principios y recomendaciones para los censos de población y habitación Revisión 2."
+"Naciones Unidas (2010), Principios y recomendaciones para los censos de población y habitación Revisión 2."
 
 #### Censo en Bolivia
 Bolivia es un país de escasa tradición censal ya que en el lapso de 175 años de vida republicana, contados desde el primer censo de 1831 y el último realizado en 1992, el país se ha efectuado diez censos de población y cuatro censos de vivienda.

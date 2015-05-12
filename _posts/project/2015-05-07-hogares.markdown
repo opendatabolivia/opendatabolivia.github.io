@@ -11,7 +11,7 @@ carousel:
 - hogares2.jpg
 - hogares3.jpg
 client: Bolivia.
-website: http://www.ine.gob.bo:8081/Webine10/enchogares1.aspx
+website: http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=EH&MAIN=WebServerMain.inl
 ---
 ####Las Encuestas de Hogares
 Un censo de población y habitación es parte de la base estadfstica fundamental de un país, ya que proporciona
@@ -21,7 +21,7 @@ La rapidez con que van cambiando la magnitud y otras características de la pobl
 
 Las encuestas de hogares son uno de los mecanismos más flexibles de recopilación de datos. En principio, se puede explorar casi cualquier tema y los conceptos y el nivel de detalle se pueden adaptar a las necesidades de la investigación. Al mismo tiempo, las encuestas de hogares son relativamente costosas. La información de la encuesta está sujeta, tanto o mas que la de los censos de población, a muchos tipos de errores no atribuibles al muestreo, que surgen en el proceso de las entrevistas. Esta información también está sujeta a errores de muestreo, que aumentan tápidamente con el nivel de detalle geografico que se trate de obtener.
 
-"Naciones Unidas, Manual de Encuestas Sobre Hogares. (1987). Nueva York."
+"Naciones Unidas (1987), Manual de Encuestas Sobre Hogares. Nueva York."
 
 ####Encuestas de Hogares en Bolivia
 El Instituto Nacional de Estadística de Bolivia a lo largo del tiempo ha realizado un conjunto de encuestas dirigidas a los hogares, estas encuestas tenían el objetivo de medir diferentes temáticas. Entre las más importantes, se encuentra toda la serie de encuestas que centró su interés en medir las condiciones de vida, esta serie en particular tuvo continuidad parcial desde 1978 hasta el 2013.
@@ -32,4 +32,12 @@ La historia de esta serie comienza con la ronda de encuestas denominada: Encuest
 de la recopilación de información de variables socioeconómicas y demográficas de la población boliviana, necesarias para la formulación, evaluación,
 seguimiento de políticas y diseño de programas de acción en el área social.
 
+"Instituto Nacional de Estadistica de Bolivia "
+
 ####Nuestra plataforma
+
+Se diseño 1 plataforma para esta fuente de información, esta contiene las encuestas a hogares de 1999 a 2011, la plataforma esta diseñadas en Redatam y permiten navegar sobre los datos con niveles de desagregación hasta departamento. Se incluyen variables e indicadores relacionados a tematicas de fuerte interés para el desarrollo local. 
+
+##Link a la plataforma
+
+* Encuestas de Hogares 1999-2011, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=EH&MAIN=WebServerMain.inl)
