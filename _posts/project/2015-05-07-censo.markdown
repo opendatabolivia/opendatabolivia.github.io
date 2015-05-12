@@ -11,7 +11,7 @@ carousel:
 - censo2.jpg
 - censo3.jpg
 client: Bolivia.
-website: http://datos.ine.gob.bo/binbol/RpWebEngine.exe/Portal?LANG=ESP
+website: http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?
 ---
 ####Los Censos de Población y Vivienda
 El capital más importante que una sociedad puede tener es el capital humano. La evaluación de la cantidad y calidad de ese capital en una pequeña superficie, en una región o en toda la nación es un componente esencial del sistema de gobierno moderno.
@@ -32,4 +32,10 @@ En realidad, los primeros seis eventos entre 1831 y 1900 apenas fueron recuentos
 Los posteriores censos nacionales de población y vivienda que se realizaron en el país fueron en 1976, 1992 y 2001, ahora se viene planificando y realizando el Censo Nacional de Población y Vivienda 2012 según los antecedentes, será el XI Censo Nacional de Población y V Censo Nacional de Vivienda.
 
 "Instituto Nacional de Estadistica de Bolivia"
+
 ####Nuestra plataforma
+Se diseñaron 3 plataformas para esta fuente de información, estas corresponden a los 3 ultimos censos del pais, el de 1992, 2001 y 2012, las plataformas estan diseñadas en Redatam y permiten navegar sobre los datos a distintos niveles de desagregación (Departamentos, Provincias y municipios). Se incluyen variables e indicadores relacionados a tematicas de fuerte interes para el desarrollo local.
+
+* Censo Nacional de Poblacion y vivneda 1992, [Aquí](http://example.com)
+* Censo Nacional de Poblacion y vivneda 2001, [Aquí](http://example.com)
+* Censo Nacional de Poblacion y vivneda 2012, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CS2012&MAIN=WebServerMain.inl)
