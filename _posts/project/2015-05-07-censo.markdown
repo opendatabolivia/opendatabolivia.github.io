@@ -36,6 +36,8 @@ Los posteriores censos nacionales de población y vivienda que se realizaron en 
 ####Nuestra plataforma
 Se diseñaron 3 plataformas para esta fuente de información, estas corresponden a los 3 ultimos censos del pais, el de 1992, 2001 y 2012, las plataformas estan diseñadas en Redatam y permiten navegar sobre los datos a distintos niveles de desagregación (Departamentos, Provincias y municipios). Se incluyen variables e indicadores relacionados a tematicas de fuerte interes para el desarrollo local.
 
+##Links a las plataformas!!!
+
 * Censo Nacional de Poblacion y vivneda 1992, [Aquí](http://example.com)
 * Censo Nacional de Poblacion y vivneda 2001, [Aquí](http://example.com)
 * Censo Nacional de Poblacion y vivneda 2012, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CS2012&MAIN=WebServerMain.inl)
