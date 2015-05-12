@@ -13,8 +13,23 @@ carousel:
 client: Bolivia.
 website: http://datos.ine.gob.bo/binbol/RpWebEngine.exe/Portal?LANG=ESP
 ---
-####Censos de Población y Vivienda
-El...
+####Los Censos de Población y Vivienda
+El capital más importante que una sociedad puede tener es el capital humano. La evaluación de la cantidad y calidad de ese capital en una pequeña superficie, en una región o en toda la nación es un componente esencial del sistema de gobierno moderno.
 
+Aparte de la respuesta a la pregunta “¿Cuántos somos?”, hay que responder también a interrogantes como “¿Quiénes somos?”, en términos de edad, sexo, educación, ocupación, actividad económica y otras características fundamentales, y “¿Dónde vivimos?”,
+en lo que se refiere a la vivienda, el acceso al agua, la disponibilidad de los servicios esenciales y el acceso a Internet. Las respuestas a estas preguntas ofrecen un perfil numérico de la nación que es, en todos los niveles, condición imprescindible para la toma de decisiones, y resulta indispensable para supervisar los objetivos de desarrollo de un país.
+
+El censo nacional de población y vivienda representa uno de los pilares para la recopilación de datos sobre el número y características de la población de un país. En lo que se refiere a las zonas geográficas pequeñas o subgrupos
+de población, puede representar la única fuente de información sobre determinadas características sociales, demográficas y económicas.
+
+"Naciones Unidas (2010). Principios y recomendaciones para los censos de población y habitación Revisión 2."
+
+#### Censo en Bolivia
+Bolivia es un país de escasa tradición censal ya que en el lapso de 175 años de vida republicana, contados desde el primer censo de 1831 y el último realizado en 1992, el país se ha efectuado diez censos de población y cuatro censos de vivienda.
+
+En realidad, los primeros seis eventos entre 1831 y 1900 apenas fueron recuentos poblacionales. Recién a partir del año 1950 se realizó un verdadero censo demográfico que además de obtener información sobre el número de habitantes y su distribución espacial, recogió datos sobre las características sociales y económicas de la población; en esa oportunidad, por primera vez, se incorporaron preguntas relativas a la vivienda.
+
+Los posteriores censos nacionales de población y vivienda que se realizaron en el país fueron en 1976, 1992 y 2001, ahora se viene planificando y realizando el Censo Nacional de Población y Vivienda 2012 según los antecedentes, será el XI Censo Nacional de Población y V Censo Nacional de Vivienda.
+
+"Instituto Nacional de Estadistica de Bolivia"
 ####Nuestra plataforma
-La..
