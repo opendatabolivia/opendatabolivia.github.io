@@ -13,8 +13,23 @@ carousel:
 client: Bolivia.
 website: http://www.ine.gob.bo:8081/Webine10/enchogares1.aspx
 ---
-####Encuestas de Hogares
-Las...
+####Las Encuestas de Hogares
+Un censo de población y habitación es parte de la base estadfstica fundamental de un país, ya que proporciona
+un inventario de los recursos humanos de la nación con gran detalle geografico y demográfico. Es obvio, sin embargo, que los censos no se pueden repetir muy a menudo y la información pronto puede resultar anticuada. Las encuestas de hogares por muestreo proporcionan una base para actualizar la información de los censos, por lo menos para la nación en su conjunto o para amplias zonas geográficas. 
+
+La rapidez con que van cambiando la magnitud y otras características de la población, así como la demanda de nuevos datos detallados sobre las características sociales y económicas de la población y las características habitacionales que no es fácil obtener mediante un censo general, han hecho necesario organizar programas permanentes de encuestas intercensales por muestreo de unidades familiares (hogares) para reunir información continua y detallada acerca de numerosos temas.
+
+Las encuestas de hogares son uno de los mecanismos más flexibles de recopilación de datos. En principio, se puede explorar casi cualquier tema y los conceptos y el nivel de detalle se pueden adaptar a las necesidades de la investigación. Al mismo tiempo, las encuestas de hogares son relativamente costosas. La información de la encuesta está sujeta, tanto o mas que la de los censos de población, a muchos tipos de errores no atribuibles al muestreo, que surgen en el proceso de las entrevistas. Esta información también está sujeta a errores de muestreo, que aumentan tápidamente con el nivel de detalle geografico que se trate de obtener.
+
+"Naciones Unidas, Manual de Encuestas Sobre Hogares. (1987). Nueva York."
+
+####Encuestas de Hogares en Bolivia
+El Instituto Nacional de Estadística de Bolivia a lo largo del tiempo ha realizado un conjunto de encuestas dirigidas a los hogares, estas encuestas tenían el objetivo de medir diferentes temáticas. Entre las más importantes, se encuentra toda la serie de encuestas que centró su interés en medir las condiciones de vida, esta serie en particular tuvo continuidad parcial desde 1978 hasta el 2013.
+
+La historia de esta serie comienza con la ronda de encuestas denominada: Encuesta Permanente de Hogares (EPH) de 1978 - 1985, luego la Encuesta Integrada de Hogares (EIH) de 1986 - 1995, posteriormente la Encuesta Nacional de Empleo (ENE) de 1996 - 1998, después las Encuestas a Hogares del programa MECOVI de 1999 - 2004 y finalmente las Encuestas a Hogares (EH) de 2005 - 2013. El objetivo general de estas encuestas durante estos años, fue:
+
+>Obtener información sobre las condiciones de vida de los hogares, a partir
+de la recopilación de información de variables socioeconómicas y demográficas de la población boliviana, necesarias para la formulación, evaluación,
+seguimiento de políticas y diseño de programas de acción en el área social.
 
 ####Nuestra plataforma
-...
