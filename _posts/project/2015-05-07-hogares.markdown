@@ -7,7 +7,7 @@ categories:
 img: hogares.png
 thumb: thumb02.jpg
 carousel:
-- hogares3.jpg
+- hogares3.png
 - hogares1.jpg
 - hogares2.png
 client: Bolivia.
