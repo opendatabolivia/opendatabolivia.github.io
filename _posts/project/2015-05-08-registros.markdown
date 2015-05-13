@@ -11,7 +11,7 @@ carousel:
 - registros1.jpg
 - registros2.jpg
 client: Bolivia.
-website: 
+website: http://opendatabolivia.github.io/blog/datos/bolivia/municipios/desarrollo%20local/presupuesto/presupuesto/
 ---
 ####Registros Administrativos
 Muchos tipos de estadísticas sociales se extraen de los diversos registros administrativos que se crean a partir de los procesos administrativos. Algunos ejemplos de ellos son las estadísticas de salud de los registros hospitalarios, las estadísticas laborales de los servicios de intermediación laboral, las estadísticas vitales de los registros civiles y las estadísticas educativas de los informes de escolarización de los ministerios de educación. La fiabilidad de las estadísticas obtenidas de registros administrativos depende del grado de exhaustividad de dichos registros y de la coherencia de sus definiciones y conceptos.
