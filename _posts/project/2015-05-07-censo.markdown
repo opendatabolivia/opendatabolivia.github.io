@@ -11,7 +11,7 @@ carousel:
 - censo2.jpg
 - censo3.jpg
 client: Bolivia.
-website: http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?
+website: 
 ---
 ####Los Censos de Población y Vivienda
 El capital más importante que una sociedad puede tener es el capital humano. La evaluación de la cantidad y calidad de ese capital en una pequeña superficie, en una región o en toda la nación es un componente esencial del sistema de gobierno moderno.
