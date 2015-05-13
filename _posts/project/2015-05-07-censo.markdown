@@ -7,7 +7,7 @@ categories:
 img: censo.png
 thumb: iaru.jpg
 carousel:
-- censo1.jpg
+- censo1.png
 - censo2.jpg
 - censo3.jpg
 client: Bolivia.
