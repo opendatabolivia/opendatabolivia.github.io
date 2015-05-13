@@ -9,7 +9,7 @@ thumb: iaru.png
 carousel:
 - registros1.jpg
 - registros2.jpg
-- registros3.jpg
+- registros3.png
 client: Bolivia.
 website: 
 ---
