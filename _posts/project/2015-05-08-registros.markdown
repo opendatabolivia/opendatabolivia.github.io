@@ -7,9 +7,9 @@ categories:
 img: registros.png
 thumb: iaru.png
 carousel:
+- registros3.png
 - registros1.jpg
 - registros2.jpg
-- registros3.png
 client: Bolivia.
 website: 
 ---
