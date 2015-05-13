@@ -11,10 +11,27 @@ carousel:
 - endsa2.jpg
 - endsa3.jpg
 client: Bolivia.
-website: http://blacktie.co
+website: 
 ---
-####Encuestas de Hogares
-Las...
+##Link a la plataforma!!!
+
+* Encuesta Nacional de demografía y Salud 1989-2008, [Muy pronto!]()
+
+####Encuesta Nacional de Demografía y Salud (ENDSA)
+Las Encuestas de Demografía y Salud (EDS) son las encuestas de hogares representativas a nivel nacional que proporcionan datos para una amplia gama de monitoreo y afectan los indicadores de evaluación en las áreas de población, salud y nutrición.
+
+Estas encuestas son promovidas por ICF International, el Programa;
+
+* Considera que el propósito final de la recolección de datos es su uso en la formulación de políticas, la planificación, monitoreo y evaluación.
+* Tiene como objetivo fomentar y reforzar la identificación de los países de acogida de la recogida de datos, análisis, presentación y uso.
+* Coordina con los principales interesados ​​en la recopilación y difusión de datos.
+* Selecciona los métodos de recolección de datos más adecuados para garantizar el suministro de datos de alta calidad a un costo razonable.
+* Aumenta la capacidad de los socios de los países receptores para recoger y utilizar los datos para fines de programas y políticas.
+
+
+####La ENDSA en Bolivia
+En Bolivia se han ejecutado cinco encuestas nacionales de demografía y salud en el marco del Programa DHS, la
+primera en 1989, las siguientes en; 1994, 1998, 2003 y 2008. El programa de Encuestas de Demografía y Salud se inició en 1984 como Programa DHS y desde fines de 1998 se conoce como Programa MEASURE DHS. 
 
 ####Nuestra plataforma
-...
+Se diseño una plataforma para esta fuente de información, esta corresponden a las 5 encuestas de demografía y salud existentes en Bolivia (1989, 1994, 1998, 2003 y 2008), la plataforma esta diseñada en Redatam y permite navegar sobre los datos a niveles de desagregación departamentales y por área Urbano-Rural. Se incluyen variables e indicadores relacionados a tematicas de fuerte interes para el desarrollo local.

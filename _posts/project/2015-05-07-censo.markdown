@@ -13,6 +13,12 @@ carousel:
 client: Bolivia.
 website: 
 ---
+##Links a las plataformas!!!
+
+* Censo Nacional de Población y vivienda 1992, [Muy pronto!]()
+* Censo Nacional de Población y vivienda 2001, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CS2001&MAIN=WebServerMain.inl)
+* Censo Nacional de Población y vivienda 2012, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CS2012&MAIN=WebServerMain.inl)
+
 ####Los Censos de Población y Vivienda
 El capital más importante que una sociedad puede tener es el capital humano. La evaluación de la cantidad y calidad de ese capital en una pequeña superficie, en una región o en toda la nación es un componente esencial del sistema de gobierno moderno.
 
@@ -36,8 +42,4 @@ Los posteriores censos nacionales de población y vivienda que se realizaron en 
 ####Nuestra plataforma
 Se diseñaron 3 plataformas para esta fuente de información, estas corresponden a los 3 ultimos censos del pais, el de 1992, 2001 y 2012, las plataformas estan diseñadas en Redatam y permiten navegar sobre los datos a distintos niveles de desagregación (Departamentos, Provincias y municipios). Se incluyen variables e indicadores relacionados a tematicas de fuerte interes para el desarrollo local.
 
-##Links a las plataformas!!!
 
-* Censo Nacional de Población y vivienda 1992, [Muy pronto!]()
-* Censo Nacional de Población y vivienda 2001, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CS2001&MAIN=WebServerMain.inl)
-* Censo Nacional de Población y vivienda 2012, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CS2012&MAIN=WebServerMain.inl)

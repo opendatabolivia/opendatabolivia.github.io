@@ -13,6 +13,11 @@ carousel:
 client: Bolivia.
 website: http://opendatabolivia.github.io/blog/datos/bolivia/municipios/desarrollo%20local/presupuesto/presupuesto/
 ---
+####Links a las plataformas!!!
+ 
+ * Presupuestos municipales 2015 [Aquí](http://opendatabolivia.github.io/blog/datos/bolivia/municipios/desarrollo%20local/presupuesto/presupuesto/) 
+ * Infraestructura en salud y educación  [Muy pronto!]()
+
 ####Registros Administrativos
 Muchos tipos de estadísticas sociales se extraen de los diversos registros administrativos que se crean a partir de los procesos administrativos. Algunos ejemplos de ellos son las estadísticas de salud de los registros hospitalarios, las estadísticas laborales de los servicios de intermediación laboral, las estadísticas vitales de los registros civiles y las estadísticas educativas de los informes de escolarización de los ministerios de educación. La fiabilidad de las estadísticas obtenidas de registros administrativos depende del grado de exhaustividad de dichos registros y de la coherencia de sus definiciones y conceptos.
 
@@ -23,7 +28,4 @@ Si bien los registros administrativos pueden llegar a constituir una fuente de d
 ####Nuestras plataformas
 Las plataformas priorizan la información a nivel municipal, fueron diseñadas en 2 principales entornos; Redatam y R-Cran. Los registros disponibles corresponden a recopilaciones realizadas por Fundación ARU en las distintas instituciones públicas de Bolivia, se prioriza que la información recopilada sea actual y exahustiva.
 
-####Links a las plataformas!!!
- 
- * Presupuestos municipales 2015 [Aquí](http://opendatabolivia.github.io/blog/datos/bolivia/municipios/desarrollo%20local/presupuesto/presupuesto/) 
- * Infraestructura en salud y educación  [Muy pronto!]()
+
