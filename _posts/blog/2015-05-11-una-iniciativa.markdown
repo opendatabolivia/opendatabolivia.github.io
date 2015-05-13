@@ -9,7 +9,7 @@ categories:
 - Bolivia
 - desarrollo local
 img: iniciativa.png
-thumb: thumb03.jpg
+thumb: iaru.png
 ---
 
 <b>Fundación ARU</b> es ... <!--more-->
