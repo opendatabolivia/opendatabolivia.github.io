@@ -11,7 +11,7 @@ carousel:
 - hogares2.jpg
 - hogares3.jpg
 client: Bolivia.
-website: [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=EH&MAIN=WebServerMain.inl)
+website: [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=EH&MAIN=WebServerMain.inl) 
 ---
 ####Las Encuestas de Hogares
 Un censo de población y habitación es parte de la base estadfstica fundamental de un país, ya que proporciona
