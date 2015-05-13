@@ -10,7 +10,7 @@ categories:
 - Municipios
 - desarrollo local
 - Presupuesto
-img: presupuesto.png
+img: presupuesto.jpg
 thumb: thumb03.jpg
 ---
 
@@ -52,7 +52,6 @@ La fuente de los datos proviene de una recopilacion realizada por Fundación Jub
     + [Villa de Huacaya](http://aru.noip.me/Rpresup2015/46.html)
     + [Yamparáez](http://aru.noip.me/Rpresup2015/47.html)
     + [Yotala](http://aru.noip.me/Rpresup2015/48.html)  
-***
 * La Paz
     + [Achacachi](http://aru.noip.me/Rpresup2015/96.html)
     + [Achocalla](http://aru.noip.me/Rpresup2015/97.html)
