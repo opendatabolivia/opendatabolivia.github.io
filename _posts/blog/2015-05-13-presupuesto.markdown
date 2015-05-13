@@ -11,7 +11,7 @@ categories:
 - desarrollo local
 - Presupuesto
 img: presupuesto.jpg
-thumb: thumb03.jpg
+thumb: iaru.png
 ---
 
 <b>Fundación ARU</b> pone a disposición de la poblacion en general fichas municipales que detallan el presupuesto municipal para el 2015.  <!--more--> 
