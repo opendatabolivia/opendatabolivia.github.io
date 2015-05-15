@@ -11,11 +11,11 @@ carousel:
 - endsa2.jpg
 - endsa3.jpg
 client: Bolivia.
-website: 
+website: http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=ENDSA&MAIN=WebServerMain.inl
 ---
 ##Link a la plataforma!!!
 
-* Encuesta Nacional de demografía y Salud 1989-2008, [Muy pronto!]()
+* Encuesta Nacional de demografía y Salud 1989-2008, [Aquí!](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=ENDSA&MAIN=WebServerMain.inl)
 
 ####Encuesta Nacional de Demografía y Salud (ENDSA)
 Las Encuestas de Demografía y Salud (EDS) son las encuestas de hogares representativas a nivel nacional que proporcionan datos para una amplia gama de monitoreo y afectan los indicadores de evaluación en las áreas de población, salud y nutrición.
