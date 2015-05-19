@@ -18,7 +18,7 @@ website:
 * Provincial, serie 1992, 2001 y 2012 [Muy pronto!]() 
 * Municipal, serie 1992, 2001 y 2012 [Muy pronto!]()
 
-#### Origen de los datos
+####Origen de los datos
 
 Para el nivel Nacional y Departamental 
 
@@ -28,7 +28,7 @@ Para el nivel de provincia y municipio
 
 	* Los datos empleados para el cálculo de los indicadores proviene de los Censos de Población y Vivienda 1992, 2001 y 2012 realizados por el Instituto Nacional de Estadistica de Bolivia, estos fuerón sistematizados y homologados por Fundación ARU.
 
-#### Detalles técnicos
+####Detalles técnicos
 
 El proceso de armonización y homologación consiste en:
 
