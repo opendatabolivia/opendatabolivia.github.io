@@ -3,7 +3,7 @@ layout: project
 title:  "Empleo"
 author: Fundación ARU
 categories:
-- empleo
+- temas
 img: empleo.png
 thumb: thumb02.jpg
 carousel:
