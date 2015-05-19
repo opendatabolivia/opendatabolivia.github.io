@@ -7,7 +7,7 @@ categories:
 img: servicios.png
 thumb: iaru.jpg
 carousel:
-- educacion1.jpg
+- servicios1.jpg
 client: Bolivia.
 website: 
 ---
