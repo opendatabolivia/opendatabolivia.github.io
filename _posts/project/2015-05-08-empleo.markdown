@@ -4,6 +4,7 @@ title:  "Empleo"
 author: Fundación ARU
 categories:
 - temas
+- empleo
 img: empleo.png
 thumb: thumb02.jpg
 carousel:
