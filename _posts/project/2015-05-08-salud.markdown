@@ -46,5 +46,5 @@ El proceso de armonización y homologación consiste en:
 4. Generación de indicadores en base a recomendaciones internacionales de Naciones Unidas, OIT, UNICEF y otras fuentes académicas.
 
 <div>
-<iframe width="500" height="500" src="sal_nacional.html" scrolling="no" frameborder="no" ></iframe>
+<iframe width="500" height="500" src="http://opendatabolivia.github.io/sal_nacional.html" scrolling="no" frameborder="no" ></iframe>
 </div>
