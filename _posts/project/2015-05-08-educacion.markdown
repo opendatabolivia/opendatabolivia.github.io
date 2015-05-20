@@ -15,8 +15,11 @@ website:
 ##Indicadores de Educación
 
 * Nacional por área Urbano Rural y Departamental, serie 1999 - 2013 
+
 > [Accede a esta plataforma aquí!](http://opendatabolivia.github.io/edu_nacional.html)
+
 * Por Provincia, serie 1992, 2001 y 2012 [Muy pronto!]() 
+
 * Por Municipio, serie 1992, 2001 y 2012 [Muy pronto!]()
 
 #### Origen de los datos
