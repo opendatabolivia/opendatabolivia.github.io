@@ -18,9 +18,15 @@ website:
 
 > [Accede a esta plataforma aquí!](http://opendatabolivia.github.io/edu_nacional.html)
 
-* Por Provincia, serie 1992, 2001 y 2012 [Muy pronto!]() 
+* Por Provincia, serie 1992, 2001 y 2012 
 
-* Por Municipio, serie 1992, 2001 y 2012 [Muy pronto!]()
+> [Muy pronto!]() 
+
+* Por Municipio, serie 1992, 2001 y 2012 
+
+> [Muy pronto!]()
+
+***
 
 #### Origen de los datos
 
