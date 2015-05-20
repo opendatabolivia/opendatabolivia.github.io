@@ -2,8 +2,7 @@
 layout: project
 title:  "Educación"
 author: Fundación ARU
-date: Mayo, 2015
-publicacion: Mayo, 2015
+fecha: Mayo, 2015
 categories:
 - temas 
 - educacion
