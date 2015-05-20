@@ -39,6 +39,9 @@ Para el nivel de Provincia y Municipio
 
 > Los datos empleados para el cálculo de los indicadores proviene de los Censos de Población y Vivienda 1992, 2001 y 2012 realizados por el Instituto Nacional de Estadistica de Bolivia, estos fuerón sistematizados y homologados por Fundación ARU.
 
+***
+***
+
 #### Detalles técnicos
 
 El proceso de armonización y homologación consiste en:
