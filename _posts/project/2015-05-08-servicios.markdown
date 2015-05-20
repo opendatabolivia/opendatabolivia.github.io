@@ -10,6 +10,7 @@ img: servicios.png
 thumb: iaru.jpg
 carousel:
 - servicios2.jpg
+- servicios1.png
 client: Bolivia.
 website: 
 ---
