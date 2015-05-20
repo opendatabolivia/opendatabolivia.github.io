@@ -17,9 +17,9 @@ website:
 
 * Nacional por área Urbano Rural y Departamental, serie 1999 - 2013 
 
-> [Servicios Básicos, Accede a esta plataforma aquí!](http://opendatabolivia.github.io/ser_nacional.html)
+> [Servicios Básicos, Accede a la plataforma aquí!](http://opendatabolivia.github.io/ser_nacional.html)
 
-> [Vivienda, Accede a esta plataforma aquí!](http://opendatabolivia.github.io/viv_nacional.html)
+> [Vivienda, Accede a la plataforma aquí!](http://opendatabolivia.github.io/viv_nacional.html)
 
 * Por Provincia, serie 1992, 2001 y 2012 
 
