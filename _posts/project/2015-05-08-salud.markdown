@@ -14,10 +14,17 @@ website:
 ---
 ##Indicadores de Salud
 
-* Nacional y por área Urbano Rural, serie 1999 - 2013 [Muy pronto!]()
-* Departamental, serie 1999 - 2013 [Muy pronto!]()
-* Provincial, serie 1992, 2001 y 2012 [Muy pronto!]() 
-* Municipal, serie 1992, 2001 y 2012 [Muy pronto!]()
+* Nacional por área Urbano Rural y Departamental, serie 1999 - 2013 
+
+> [Accede a la plataforma aquí!](http://opendatabolivia.github.io/sal_nacional.html)
+
+* Por Provincia, serie 1992, 2001 y 2012 
+
+> [Muy pronto!]() 
+
+* Por Municipio, serie 1992, 2001 y 2012 
+
+> [Muy pronto!]()
 
 #### Origen de los datos
 
@@ -37,3 +44,7 @@ El proceso de armonización y homologación consiste en:
 2. Homologación en el diseño tématico de la encuesta (Ajuste sobre las preguntas, rangos, clases, etc.).
 3. Homologacion en el diseño muestral de la encuesta (Post-estratificación). No aplica para los Censos.
 4. Generación de indicadores en base a recomendaciones internacionales de Naciones Unidas, OIT, UNICEF y otras fuentes académicas.
+
+<div>
+<iframe width="500" height="500" src="sal_nacional.html" scrolling="no" frameborder="no" ></iframe>
+</div>
