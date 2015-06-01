@@ -6,7 +6,7 @@ author: Fundación ARU
 categories:
 - Presupuesto
 - temas
-img: presupuesto.jpg
+img: presupuesto.png
 thumb: iaru.png
 carousel:
 - presupuesto.jpg
