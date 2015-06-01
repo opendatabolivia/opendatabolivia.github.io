@@ -4,14 +4,14 @@ title: "Presupuestos Municipales 2015"
 date: 2015-05-13
 author: Fundación ARU
 categories:
-- blog
-- datos
-- Bolivia
-- Municipios
-- desarrollo local
 - Presupuesto
+- temas
 img: presupuesto.jpg
 thumb: iaru.png
+carousel:
+- presupuesto.jpg
+client: Bolivia.
+website: 
 ---
 
 <b>Fundación ARU</b> pone a disposición de la poblacion en general fichas municipales que detallan el presupuesto municipal para el 2015.  <!--more--> 
