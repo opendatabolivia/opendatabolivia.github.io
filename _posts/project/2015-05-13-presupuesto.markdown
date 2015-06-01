@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Presupuestos Municipales 2015"
 date: 2015-05-13
 author: Fundación ARU
