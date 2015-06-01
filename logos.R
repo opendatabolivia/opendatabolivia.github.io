@@ -153,3 +153,12 @@ text(1,0.9,"EMPLEO",cex=5,col="#00004e",font=2,pos=4)
 box()
 dev.off()
 
+#pRESUPUESTOIS MUNICIPALES
+a<-readJPEG("presupuesto.jpg")
+png("presupuesto.png",width=600,height=450,bg = "transparent")
+par(mai=c(0,0,0,0))
+plot(1:2, type='n',ylim=c(0.8,2))
+rasterImage(a, 1, 2, 2, 1)
+text(1,0.9,"Presupuestos Municipales",cex=3,col="#00004e",font=2,pos=4)
+box()
+dev.off()
