@@ -4,7 +4,7 @@ title: "Indicadores sobre Servicios Básicos en las Provincias, 1992 - 2012"
 date: 2015-05-13
 author: Fundación ARU
 categories:
-- blog
+- plataforma
 thumb: iaru.png
 ---
 La plataforma muestra los indicadores...
