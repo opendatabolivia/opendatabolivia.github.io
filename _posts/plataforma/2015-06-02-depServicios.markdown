@@ -16,4 +16,4 @@ Esta plataforma es dinámica, se sugiere seguir los siguientes pasos para su uso
 * La plataforma le permite interactuar con otros tres tipos de gráficos, para ello, seleccione en la parte superior derecha cualquiera de los iconos disponibles
 * Si desea puede realizar cruces de variables, diferenciar a los departamentos por tamaño o color.
 
-<iframe src="http://opendatabolivia.github.io/serd_nacional.html" width="1020" height="620" align="center"> 
+<iframe src="http://opendatabolivia.github.io/serd_nacional.html" width="1100" height="700" align="center"> 
