@@ -9,4 +9,4 @@ thumb: iaru.png
 ---
 La plataforma muestra los indicadores...
 
-<iframe src="http://opendatabolivia.github.io/serp_nacional.html" width="1000" height="700" align="center"> 
+<iframe src="http://opendatabolivia.github.io/serp_nacional.html" width="1020" height="620" align="center"> 
