@@ -1,6 +1,6 @@
 ---
 layout: question
-title: "Indicadores sobre Servicios Básicos en las Provincias, 1992 - 2012"
+title: "Indicadores sobre Servicios Básicos en las Departamentos y a nivel Nacional Urbano-Rural, 1999 - 2013"
 date: 2015-05-13
 author: Fundación ARU
 categories:
