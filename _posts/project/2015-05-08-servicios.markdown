@@ -44,6 +44,3 @@ El proceso de armonización y homologación consiste en:
 2. Homologación en el diseño tématico de la encuesta (Ajuste sobre las preguntas, rangos, clases, etc.).
 3. Homologacion en el diseño muestral de la encuesta (Post-estratificación). No aplica para los Censos.
 4. Generación de indicadores en base a recomendaciones internacionales de Naciones Unidas, OIT, UNICEF y otras fuentes académicas.
-
-
-
