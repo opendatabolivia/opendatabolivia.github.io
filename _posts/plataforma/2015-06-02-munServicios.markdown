@@ -17,4 +17,4 @@ Esta plataforma es dinámica, se sugiere seguir los siguientes pasos para su uso
 * Si desea puede realizar cruces de variables, diferenciar a los municipios por tamaño o color.
 * La información disponibles es de los 339 Municipios de Bolivia
 
-<iframe src="http://opendatabolivia.github.io/serm_nacional.html" width="1020" height="620" align="center"> 
+<iframe src="http://opendatabolivia.github.io/serm_nacional.html" width="1200" height="800" align="center"> 
