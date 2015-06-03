@@ -17,7 +17,7 @@ website:
 ##Indicadores de Servicios Básicos y Vivienda
 
 * Nacional por área Urbano Rural y Departamental, serie 1999 - 2013 
-	+ [Servicios Básicos, Accede a la plataforma aquí!](http://opendatabolivia.github.io/question/depVivienda/)
+	+ [Servicios Básicos, Accede a la plataforma aquí!](http://opendatabolivia.github.io/question/depServicios/)
 	+ [Vivienda, Accede a la plataforma aquí!](http://opendatabolivia.github.io/question/depVivienda/)
 * Por Provincia, serie 1992, 2001 y 2012 
 	+ [Servicios Básicos, Accede a la plataforma aquí!](http://opendatabolivia.github.io/question/proServicios/) 
