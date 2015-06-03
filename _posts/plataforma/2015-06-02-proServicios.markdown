@@ -17,4 +17,4 @@ Esta plataforma es dinámica, se sugiere seguir los siguientes pasos para su uso
 * Si desea puede realizar cruces de variables, diferenciar a las provincias por tamaño o color.
 * La información disponibles es de las 112 Provincias de Bolivia
 
-<iframe src="http://opendatabolivia.github.io/serp_nacional.html" width="1200" height="800" align="center"> 
+<iframe src="http://opendatabolivia.github.io/serp_nacional.html" width="1200" height="820" align="center"> 
