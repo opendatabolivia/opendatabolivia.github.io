@@ -42,7 +42,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>Plataformas dinámicas</h4>
+            <h4>Últimas Plataformas Dinámicas</h4>
             <div class="hline"></div>
             {% for post in site.categories['question'] limit:4 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
@@ -50,7 +50,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>Últimos artículos</h4>
+            <h4>Últimos Artículos</h4>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:4 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
