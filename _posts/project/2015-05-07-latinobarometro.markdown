@@ -15,7 +15,7 @@ website:
 ---
 ##Links a las plataformas!!!
 
-* Latinobarometro en Bolivia y America Latina, 1998-2011, [Muy pronto!]()
+* Latinobarometro en Bolivia y America Latina, 1998-2011, [Aquí](http://aru.noip.me/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=LATINO&MAIN=WebServerMain.inl)
 
 ##Latinobarometro
 Latinobarómetro es un estudio de opinión pública que aplica anualmente alrededor de 20.000 entrevistas en 18 países de América Latina representando a más de 600 millones de habitantes. 
