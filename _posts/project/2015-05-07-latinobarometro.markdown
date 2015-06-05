@@ -8,9 +8,8 @@ categories:
 img: latinobarometro.png
 thumb: iaru.jpg
 carousel:
-- latino1.jpg
 - latino2.jpg
-- latino3.jpg
+- latino1.jpg
 client: Bolivia.
 website: 
 ---
