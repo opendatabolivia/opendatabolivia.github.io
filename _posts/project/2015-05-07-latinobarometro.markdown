@@ -2,6 +2,7 @@
 layout: project
 title:  "Latinobarometro"
 author: Fundación ARU
+mes: Junio, 2015
 categories:
 - project
 img: latinobarometro.png
