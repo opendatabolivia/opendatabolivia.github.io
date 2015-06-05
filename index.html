@@ -38,13 +38,13 @@ permalink: /
         <div class="col-lg-4 col-lg-offset-1">
             <h4>Más acerca de nosotros</h4>
             <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">Más Información</a></p>
         </div>
 
         <div class="col-lg-3">
             <h4>Plataformas dinámicas</h4>
             <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
+            {% for post in site.categories['question'] limit=4 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
             {% endfor %}
         </div>
@@ -52,7 +52,7 @@ permalink: /
         <div class="col-lg-3">
             <h4>Últimos artículos</h4>
             <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
+            {% for post in site.categories['blog'] limit:4 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
             {% endfor %} 
         </div>
