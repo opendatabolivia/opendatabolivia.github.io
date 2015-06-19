@@ -22,7 +22,7 @@ La fuente de los datos proviene de una recopilacion realizada por Fundación Jub
 ####PRESUPUESTOS MUNICIPALES 2015 POR DEPARTAMENTO
 
 * Chuquisaca
-    + [Sucre](http://aru.noip.me/Rpresup2015/9.html)
+    + [Sucre](http://aru.noip.me/Rpresup2015/19.html)
     + [Camargo](http://aru.noip.me/Rpresup2015/20.html)
     + [Camataqui (Villa Abecia)](http://aru.noip.me/Rpresup2015/21.html)
     + [Culpina](http://aru.noip.me/Rpresup2015/22.html)
